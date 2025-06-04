@@ -1,9 +1,17 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Lavatharini+here!;TechSavvyLava" alt="TechSavvyLavat"/>
+</a>
+
 # 💫 About Me:
 Hi there 👋 I’m Lavatharini Jasinthakumar<br>🎓 PG student in Business Information Technology @ Seneca  <br>💼 Past: Solutions Engineer | Business Process Analyst | Accounting Assistant  <br>🌐 Background: SaaS | Telecom | Finance  <br>⚙️ Tech Enthusiast | Data-Driven | Problem Solver<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavatharini-jasinthakumar/)
+
+### 🛠️ Main Skills  
+[![My Skills](https://skillicons.dev/icons?i=py,github,mongodb,mysql,js,nodejs,react,jenkins,html,css,bootstrap,php)](https://skillicons.dev)
 
 
 # 💻 Tech Stack:
@@ -17,3 +25,15 @@ Hi there 👋 I’m Lavatharini Jasinthakumar<br>🎓 PG student in Business Inf
 [![](https://visitcount.itsvg.in/api?id=lavathariny&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 👩‍💼 Employer?
+
+> 📎 **Download My Resume**  
+> [Click here to view or download](https://docs.google.com/document/d/1XHfi_Q0WZLVBYNvA62AQV7uydCuEQvb0/edit?usp=sharing&ouid=111803650239021174725&rtpof=true&sd=true)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+
+Thank you for visiting my profile 💻 
+Feel free to connect!
+
+
