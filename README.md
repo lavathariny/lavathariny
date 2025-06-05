@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Lavatharini+here!;TechSavvyLava" alt="TechSavvyLavat"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+Welcome+to+my+Github!;TechSavvyLava" alt="TechSavvyLavat"/>
 </a>
 
 # 💫 About Me:
-Hi there 👋 I’m Lavatharini Jasinthakumar<br>🎓 PG student in Business Information Technology @ Seneca  <br>💼 Past: Solutions Engineer | Business Process Analyst | Accounting Assistant  <br>🌐 Background: SaaS | Telecom | Finance  <br>⚙️ Tech Enthusiast | Data-Driven | Problem Solver<br>
+Hi there 👋 I’m Lavatharini Jasinthakumar. You can call me LAVA <br>🎓 PG student in Business Information Technology @ Seneca  <br>💼 Past: Solutions Engineer | Business Process Analyst | Accounting Assistant  <br>🌐 Background: SaaS | Telecom | Apparel |Real Estate |Finance  <br>⚙️ Tech Enthusiast | Data-Driven | Problem Solver<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavatharini-jasinthakumar/)
